@@ -15,10 +15,12 @@
 
 ## Overview
 
-Garbage collection application.
-Back-end made in Express JS, Knex, SQLite.
-Front-end made in ReactJS.
+Garbage collection application. <br><br>
+Back-end made in Express JS, Knex, SQLite. <br>
+Front-end made in ReactJS. <br>
 Mobile made in ReactNative and Expo.
+
+<br>
 
 - **[Author](#author)**
 - **[License](#license)**
