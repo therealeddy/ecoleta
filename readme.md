@@ -1,5 +1,5 @@
 <h1 align="center">
-  🚀 Ecoleta 🚀
+   💻 Ecoleta 💻
 </h1>
 
 <br>
@@ -15,7 +15,7 @@
 
 ## Overview
 
-Garbage collection application. <br><br>
+Ecoleta collection application. <br><br>
 Back-end made in Express JS, Knex, SQLite. <br>
 Front-end made in ReactJS. <br>
 Mobile made in ReactNative and Expo.
