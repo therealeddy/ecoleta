@@ -1,12 +1,12 @@
 <h1 align="center">
-  🚀 Ecoleta 🚀
+   💻 Ecoleta 💻
 </h1>
 
 <br>
 
 <div align="center">
 
-[![version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/therealeddy/ecoleta/releases)<space><space>
+[![version](https://img.shields.io/badge/version-1.0.1-blue.svg)](https://github.com/therealeddy/ecoleta/releases)<space><space>
 [![documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](#overview)
 
 </div>
@@ -15,7 +15,7 @@
 
 ## Overview
 
-Garbage collection application. <br><br>
+Ecoleta collection application. <br><br>
 Back-end made in Express JS, Knex, SQLite. <br>
 Front-end made in ReactJS. <br>
 Mobile made in ReactNative and Expo.
